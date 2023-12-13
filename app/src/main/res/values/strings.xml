@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dot Canvas View</string>
+    <string name="canvas_size">Ukuran Canvas</string>
+    <string name="expand_button">Expand button</string>
+    <string name="input_width_">Masukkan Panjang</string>
+    <string name="input_height_">Masukkan Tinggi</string>
+    <string name="save">Simpan</string>
+    <string name="must_not_empty">Input tidak boleh kosong</string>
+</resources>
